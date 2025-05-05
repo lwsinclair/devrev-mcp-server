@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kpsunil97-devrev-mcp-server-badge.png)](https://mseep.ai/app/kpsunil97-devrev-mcp-server)
+
 # DevRev MCP server
 
 ## Overview
